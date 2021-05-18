@@ -109,3 +109,4 @@ docs/source/Powder Diffraction
 .viminfo*
 .bash_history
 .keras/
+.bluesky_history/
