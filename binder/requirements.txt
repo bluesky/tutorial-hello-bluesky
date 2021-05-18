@@ -1,4 +1,9 @@
+bluesky
+caproto
+databroker
 ipympl  # enables interactive matplotlib plots with `%matplotlib widget`
+jupyterlab==2.*
 matplotlib
 nbgitpuller
-jupyterlab==2.*
+ophyd
+supervisor
